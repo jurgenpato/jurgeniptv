@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,----- Maltese TV -----
+http://no.wayin.com/live/get/out/1234.ts
+#EXTINF:0,MT - TVM HD
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/2608.ts
+#EXTINF:0,MT - TVM (B)
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/2839.ts
+#EXTINF:0,MT - TVM +1
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/8459.ts
+#EXTINF:0,MT - TVM 2 HD
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/246.ts
+#EXTINF:0,MT - TVM 2 (B)
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/61.ts
+#EXTINF:0,MT - TVM 2 +1
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/8460.ts
+#EXTINF:0,MT - ONE TV HD
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/249.ts
+#EXTINF:0,MT - ONE TV (B)
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/6377.ts
+#EXTINF:0,MT - ONE TV +1
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/8461.ts
+#EXTINF:0,MT - NET TV HD
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/2609.ts
+#EXTINF:0,MT - NET TV (B)
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/248.ts
+#EXTINF:0,MT - NET TV +1
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/8462.ts
+#EXTINF:0,MT - Smash Tv HD
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/9837.ts
+#EXTINF:0,MT - Smash Tv (B)
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/1101.ts
+#EXTINF:0,MT - Smash Tv +1
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/21582.ts
+#EXTINF:0,MT - Smash Music
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/9838.ts
+#EXTINF:0,MT - Smash Jazz
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/21581.ts
+#EXTINF:0,MT - Smash Food
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/9839.ts
+#EXTINF:0,MT - Smash Sports
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/9840.ts
+#EXTINF:0,MT - Smash 7
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/11378.ts
+#EXTINF:0,MT - Smash 7 News
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/11379.ts
+#EXTINF:0,MT - Smash Politika
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/11376.ts
+#EXTINF:0,MT - Smash Teleshop
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/11377.ts
+#EXTINF:0,MT - Weather Channel
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/11053.ts
+#EXTINF:0,MT - Fine Living TV
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/2525.ts
+#EXTINF:0,MT - Xejk TV
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/3034.ts
+#EXTINF:0,MT - Parlament TV
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/3035.ts
+#EXTINF:0,MT - Prime Tv Shopping Channel
+http://bb1.qat5.ru:80/live/031tdk/W0lnYQNpeD/9158.ts
